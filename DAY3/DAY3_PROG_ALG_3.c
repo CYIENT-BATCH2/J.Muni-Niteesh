@@ -1,3 +1,8 @@
+/*1)include the header file
+2)read the number from the user
+3)write the condition to divide and store it in another variable
+4)print the reverse number in the output
+*/
 #include <stdio.h>
 int main()
 {
