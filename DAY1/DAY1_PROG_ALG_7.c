@@ -1,7 +1,7 @@
-1)include the header file
+/*1)include the header file
 2)read the digit from the user
 3)write the condition for divide each number and check whether it is polindrome or not
-4)print the output
+4)print the output */
 int n,j,k=0,m;
   printf("enter the number\n");
   scanf("%d",&n);
