@@ -1,8 +1,8 @@
-
+/*
 1)include the header file
 2)read the digit from the user
 3)write the condition checking greater than number with each other 
-4)print the output
+4)print the output */
 #include<stdio.h>
 int main()
 int t,n1,n2,n3,n4,n5;
