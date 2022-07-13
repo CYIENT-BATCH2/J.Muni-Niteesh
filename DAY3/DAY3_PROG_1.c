@@ -1,3 +1,9 @@
+/*1)include the header file
+2)read the 8 numbers and 7 float digits from the user
+3)do sum,average and divide with each other
+4)convert the all float into decimal  
+5)print the output
+*/
 #include <stdio.h>
 int main()
 {
