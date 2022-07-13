@@ -1,4 +1,8 @@
-(I) BITWISE OPERATOR
+/*(I) BITWISE OPERATOR
+1)write the expression from the question
+2)calculate the expression
+3)print the output
+*/
 1)#include <stdio.h>
 int main() {
     int n,p;
