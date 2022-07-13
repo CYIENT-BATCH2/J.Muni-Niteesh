@@ -1,3 +1,7 @@
+/*1)include the header file
+2)read the number from the user
+3)write the condition print the hex number 
+4)print the binary number in the output */
 #include <stdio.h>
 int main()
 {
