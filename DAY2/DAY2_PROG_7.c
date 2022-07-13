@@ -1,3 +1,8 @@
+/*1)include the header file
+2)read the year from the user
+3)write the condition to find leap years
+4)print the count of leap years output
+*/
 #include <stdio.h>
 int main() {
     int y,n,c=0;
