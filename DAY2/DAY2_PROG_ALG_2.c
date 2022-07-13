@@ -1,3 +1,8 @@
+/*1)include the header file
+2)read the number from the user
+3)write the condition 
+4)print the output in 0's and 1's
+*/
 #include <stdio.h>
 int main() {
   
