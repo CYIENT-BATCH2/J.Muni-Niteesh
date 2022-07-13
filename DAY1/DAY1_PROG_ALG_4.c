@@ -1,8 +1,8 @@
-1)include the header file
+/*1)include the header file
 2)read the six digits from the user
 3)write the condition for divide each number and check it is included with zero or not
 4)if it included zero then return 0
-5)reverse the number and print it
+5)reverse the number and print it */
 #include <stdio.h>
 int main() {
  int n,c,k=0;
