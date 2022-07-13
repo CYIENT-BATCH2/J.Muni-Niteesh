@@ -1,3 +1,7 @@
+/*1)include the header file
+2)read the 6 digit number from the user
+3)write the condition to add 1st and last before numbers 
+4)print the output */
 #include <stdio.h>
 int main(){
  int n,l,c,k=0,f,s;
