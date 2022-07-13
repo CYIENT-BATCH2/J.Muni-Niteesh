@@ -1,3 +1,8 @@
+/*1)include the header file
+2)read the character from the user
+3)write the condition using conditional operator 
+4)print the output 
+*/
 #include <stdio.h>
 int main()
 {
