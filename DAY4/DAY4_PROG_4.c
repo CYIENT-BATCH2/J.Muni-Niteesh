@@ -1,4 +1,8 @@
-(D)BITWISE OPERATOR
+/*(D)BITWISE OPERATOR
+1)write the expression from the question
+2)calculate the expression
+3)print the output
+*/
 #include <stdio.h>
 int main() {
       // int i=10,j=20,m=5,k;
