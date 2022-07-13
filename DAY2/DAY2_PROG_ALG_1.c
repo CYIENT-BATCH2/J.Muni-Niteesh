@@ -1,3 +1,8 @@
+/*1)include the header file
+2)read the number from the user
+3)write the condition and sum the digits
+4)print the output */
+#include<stdio.h>
 int main() {
     int n,j,k=0,m;
   printf("enter the number\n");
