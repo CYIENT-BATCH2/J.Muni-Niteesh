@@ -1,4 +1,8 @@
-(J)COMMA OPERATOR
+/*(J)COMMA OPERATOR
+1)write the expression from the question
+2)calculate the expression
+3)print the output
+*/
 #include <stdio.h>
 int main() {
     int n;
