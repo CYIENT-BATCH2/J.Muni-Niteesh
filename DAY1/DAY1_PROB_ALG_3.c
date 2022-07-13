@@ -1,7 +1,7 @@
-1)include the header file
+/*1)include the header file
 2)read the radius from the user
 3)write the area of the circular garden 
-4)print the area output 
+4)print the area output */
 #include <stdio.h>
 int main() {
 int r,c;
