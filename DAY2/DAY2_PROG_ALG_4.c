@@ -1,3 +1,8 @@
+/*
+1)include the header file
+2)read the number from the user
+3)write the condition to check 3 included or not
+4)print the output */
 #include <stdio.h>
 int main()
 {
